@@ -8,11 +8,11 @@ int main(int argc, char const *argv[])
     cin>>x;
     if (x%2==0)
     {
-        cout<<"This is even no: ",x;
+        cout<<"This is even no: "<<x<<endl;
     }
     else
     {
-        cout<<"This is an odd no: ",x;
+        cout<<"This is an odd no: "<<x<<endl;
     }
     return 0;
 }
