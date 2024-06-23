@@ -25,11 +25,10 @@ This repository is dedicated to providing a daily dose of programming challenges
 ## 🚀 Getting Started
 
 1️⃣ Fork this repository to start receiving daily programming questions.
-
 </n>
 2️⃣ Create a new branch for each day's question and challenge yourself to solve it.
 </n>
-3️⃣ Share your solutions and engage with the community through discussions and feedback.
+3️⃣ Share your solutions and engage with the community through discussions and feedback.</n>
 
 ## 🌟 Let's Get Coding!
 
