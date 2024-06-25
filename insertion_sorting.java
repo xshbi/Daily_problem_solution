@@ -1,4 +1,25 @@
 // Java program for implementation of Insertion Sort
+
+
+/*Pseudo code for insertion sort
+
+
+
+
+
+for j = 2 to A.length
+    key = a[j]
+    //insert A[j]into the sorted seq A[1...j-1]
+    i = j-1
+    while i>0 and A[i] > key
+        A[i+1]= A[i]
+        i = i-1
+        A [i+1]=key
+
+*/
+
+
+
 public class InsertionSort {
     /*Function to sort array using insertion sort*/
     void sort(int arr[])
